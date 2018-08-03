@@ -1,0 +1,15 @@
+.card{
+    width: 200px;
+    margin: 20px;
+    min-height: 300px;
+}
+
+.card-icon{
+    margin: 150px auto;
+    font-size: 60px;
+}
+
+.icon-card:hover{
+    color: blue;
+    cursor: pointer;
+}
